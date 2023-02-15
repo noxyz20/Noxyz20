@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franck</h1>
-<h3 align="center">Work at Arobase.fr as fullstack. Based in Corti</h3>
+<h3 align="center">Freelance. Based in Bastia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noxyz20&label=Profile%20views&color=0e75b6&style=flat" alt="noxyz20" /> </p>
 
