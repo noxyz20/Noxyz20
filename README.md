@@ -1,5 +1,5 @@
 ### Hi there👋, I'm Franck
-#### Freelance Fullstack Developer using Laravel and VueJS
+#### Fullstack Developer using Laravel and VueJS
 
 ##### Connect with me:
 <p align="left">
